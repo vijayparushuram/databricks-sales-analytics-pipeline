@@ -1,4 +1,4 @@
-# databricks-sales-analytics-pipeline
+# Databricks-sales-analytics-pipeline
 
 # Sales Analytics Pipeline on Databricks
 
